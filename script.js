@@ -1,9 +1,9 @@
 /* global $ */
 
-$("#names li").click(
+$('#names li').click(
   function () {
-    $("#main").html(
+    $('#main').html(
       $(this).text()
-    );
+    )
   }
-);
+)
