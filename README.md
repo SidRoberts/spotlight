@@ -1,6 +1,6 @@
 # Spotlight
 
-[![Build Status](https://img.shields.io/github/workflow/status/SidRoberts/spotlight/tests/development.svg?style=for-the-badge)](https://github.com/SidRoberts/spotlight/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/SidRoberts/spotlight/tests.yml?branch=development&style=for-the-badge)](https://github.com/SidRoberts/spotlight/actions)
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/SidRoberts/spotlight.svg?style=for-the-badge)](https://github.com/SidRoberts/spotlight/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/SidRoberts/spotlight.svg?style=for-the-badge)](https://github.com/SidRoberts/spotlight/pulls)
