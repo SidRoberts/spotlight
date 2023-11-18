@@ -9,6 +9,14 @@
 
 Access via [https://sidroberts.co.uk/spotlight](https://sidroberts.co.uk/spotlight).
 
+### Docker
+
+```bash
+docker build . -t sidroberts/spotlight
+
+docker run --rm -p 80:80 sidroberts/spotlight
+```
+
 ## License
 
 Licensed under the MIT License.
